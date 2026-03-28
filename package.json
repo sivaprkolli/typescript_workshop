@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "test:ui": "node basics/functions.ts",
+        "test:smoke": "ts-node basics/functions1.ts"
+    },
+    "devDependencies": {
+        "playwright": "1.58.2"
+    }
+}
